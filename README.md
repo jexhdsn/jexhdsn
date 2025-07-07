@@ -6,7 +6,7 @@
 ###
 
 - Me chamo Jéssica
-- Hoje sou Analista de Dados
+- Sou Engenheira de Dados
 - Moro no Rio de Janeiro
 - Sou economista de formação pela UFF/Niterói
 
